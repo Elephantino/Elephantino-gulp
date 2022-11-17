@@ -30,11 +30,10 @@ a{
 img{
   max-width: 100%;
 }
-.wrapper{
-  overflow: hidden;
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
 }
-.container{
-  max-width: 1230px;
-  margin: 0 auto;
-  padding: 0 25px;
-}
+
